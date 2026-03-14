@@ -1,0 +1,7 @@
+{
+  "name": "NeoPet AI",
+  "description": "An interactive futuristic virtual pet companion that lives inside the browser.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
